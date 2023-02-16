@@ -5,7 +5,7 @@ LA CTF took place from Feb 10 2023, 2300EST to Feb 12 2023, 1700EST.
 ## Challenges
 
 - crypto
-  - one-more-time-pad
+  - [one-more-time-pad](./crypto/one-more-time-pad.md)
   - [rolling in the mud](./crypto/rolling%20in%20the%20mud.md)
   - chinese-lazy-theorem-1
   - greek cipher
@@ -17,17 +17,17 @@ LA CTF took place from Feb 10 2023, 2300EST to Feb 12 2023, 1700EST.
 - misc
   - discord
   - feedback
-  - CATS!
-  - EBE
+  - [CATS!](./misc/CATS.md)
+  - [EBE](./misc/EBE.md)
   - [hidden in plain sheets](./misc/hidden%20in%20plain%20sheets.md)
   - hike to where?
-  - discord l34k
-  - new-challenge
+  - [discord l34k](./misc/discord%20l34k.md)
+  - [new-challenge](./misc/new-challenge.md)
   - a hacker's notes
   - private Bin
   - pycjail
 - pwn
-  - gatekeep
+  - [gatekeep](./pwn/gatekeep.md)
   - bot
   - rickroll
   - rut-roh-relro
@@ -37,9 +37,9 @@ LA CTF took place from Feb 10 2023, 2300EST to Feb 12 2023, 1700EST.
   - stuff
   - sailor
 - rev
-  - string-cheese
-  - caterpillar
-  - finals-simulator
+  - [string-cheese](./rev/string-cheese.md)
+  - [caterpillar](./rev/caterpillar.md)
+  - [finals-simulator](./rev/finals-simulator.md)
   - universal
   - ctfd-plus
   - switcheroo
@@ -49,7 +49,7 @@ LA CTF took place from Feb 10 2023, 2300EST to Feb 12 2023, 1700EST.
   - college-tour
   - metaverse
   - uuid hell
-  - my-chemical-romance
+  - [my-chemical-romance](./web/my-chemical-romance.md)
   - 85_reasons_why
   - california-state-police
   - queue up!
