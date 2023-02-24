@@ -14,7 +14,7 @@ Pat Natali
 
 This was a simple reverse engineering challenge on a binary.
 
-![Looking at the code](..\images\rev\finals_simulator_binary.png))
+![Looking at the code](../images/rev/finals_simulator_binary.png))
 
 The first question can be answered simply by looking in the binary.
 

@@ -10,7 +10,7 @@ Pat Natali
 >
 > Answer is the domain of the website for this location. For example, if the answer was ucla, the flag would be lactf{ucla.edu}.
 
-![Attached image](..\images\misc\CATS.jpeg)
+![Attached image](../images/misc/CATS.jpeg)
 
 ## Solution
 
@@ -29,9 +29,9 @@ GPS Position                    : 20 deg 47' 27.52" N, 156 deg 57' 50.03" W
 
 Look up the coordinates on Google Maps and find the name of the cat sanctuary. These coordinates are in Decimal Minutes Seconds format.
 
-![Google Maps instructions](..\images\misc\google_maps.png)
+![Google Maps instructions](../images/misc/google_maps.png)
 
 [This link will do all the work for you. Just zoom in a bit to find the sanctuary.](https://goo.gl/maps/s2h8cZwEKwySpkrt8)
 
-![Cat Sanctuary](..\images\misc\lanai_cat_sanctuary.png)
+![Cat Sanctuary](../images/misc/lanai_cat_sanctuary.png)
 

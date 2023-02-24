@@ -16,7 +16,7 @@ Pat Natali
 
 I simply took the binary and opened it with a text editor (Notepad++) to find the answer saved in the binary.
 
-![plaintext](..\images\rev\cheese.png)
+![plaintext](../images/rev/cheese.png)
 
 ```
 $ nc lac.tf 31131
