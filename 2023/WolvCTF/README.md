@@ -1,0 +1,63 @@
+# WolvCTF 2023
+
+WolveCTF took place from March 16 2023, 1600EDT to March 19 2023, 1600EDT.
+
+## Challenges
+
+- Reverse
+  - child-re
+  - Homework Help
+  - squiggles
+  - ej
+  - archs
+  - 64r2
+  - atari_magic
+  - world_of_monads
+  - modern_software_protections
+  - authcore #1
+- Forensics
+  - Dino Trading
+  - Employee 427: Locate
+  - Employee 427: Compromised
+  - important_notes
+  - Employee 428: Recover
+- OSINT
+  - WannaFlag I: An Introduction
+  - WannaFlag II: Payments
+  - WannaFlag III: Infiltration
+  - WannaFlag IV: Exfiltration
+  - WannaFlag V: The Mastermind
+- Crypto
+  - keyexchange
+  - Z2kDH
+  - Galois-t is this?
+  - DownUnder
+  - TealyMan
+- Web
+  - Zombie 101
+  - Hidden CSS
+  - Adversal
+  - Filter Madness
+- Pwn
+  - Squirrel Feeding
+  - WTML
+  - echo2
+- Misc
+  - Sanity Check
+  - Abstract Art
+  - Switcharoo
+  - yellsatjavascript
+  - Limited Characters
+  - yellsatpython
+  - Smuggler
+  - yellsatbefunge1
+- Beginner
+  - Charlotte's Web
+  - baby-pwn
+  - baby-re
+  - theyseemerolling
+  - cat
+  - elytra
+  - escaped
+  - We Will Rock You
+  - yowhatsthepassword
