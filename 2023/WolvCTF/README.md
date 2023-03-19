@@ -16,7 +16,7 @@ WolveCTF took place from March 16 2023, 1600EDT to March 19 2023, 1600EDT.
   - modern_software_protections
   - authcore #1
 - Forensics
-  - Dino Trading
+  - [Dino Trading](./Forensics/Dino%20Trading.md)
   - Employee 427: Locate
   - Employee 427: Compromised
   - important_notes
@@ -44,7 +44,7 @@ WolveCTF took place from March 16 2023, 1600EDT to March 19 2023, 1600EDT.
   - echo2
 - Misc
   - Sanity Check
-  - Abstract Art
+  - [Abstract Art](./Misc/Abstract%20Art.md)
   - Switcharoo
   - yellsatjavascript
   - Limited Characters
